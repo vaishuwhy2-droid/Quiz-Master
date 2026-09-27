@@ -1,0 +1,4106 @@
+[
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": {
+            "A": "function",
+            "B": "def",
+            "C": "fun",
+            "D": "define"
+        },
+        "answer": "B",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which data type is used to store whole numbers in Python?",
+        "options": {
+            "A": "float",
+            "B": "string",
+            "C": "int",
+            "D": "list"
+        },
+        "answer": "C",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which symbol is used for a single-line comment in Python?",
+        "options": {
+            "A": "//",
+            "B": "#",
+            "C": "/*",
+            "D": "--"
+        },
+        "answer": "B",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which function is used to display output in Python?",
+        "options": {
+            "A": "display()",
+            "B": "output()",
+            "C": "print()",
+            "D": "show()"
+        },
+        "answer": "C",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the output of 10 // 3 in Python?",
+        "options": {
+            "A": "3",
+            "B": "3.33",
+            "C": "4",
+            "D": "1"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which Python collection stores data as key-value pairs?",
+        "options": {
+            "A": "List",
+            "B": "Tuple",
+            "C": "Dictionary",
+            "D": "Set"
+        },
+        "answer": "C",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which keyword is used to handle exceptions in Python?",
+        "options": {
+            "A": "try",
+            "B": "check",
+            "C": "exception",
+            "D": "error"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which method adds an item to the end of a Python list?",
+        "options": {
+            "A": "add()",
+            "B": "insert()",
+            "C": "append()",
+            "D": "push()"
+        },
+        "answer": "C",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which concept allows a class to acquire properties and methods of another class?",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Inheritance",
+            "C": "Abstraction",
+            "D": "Iteration"
+        },
+        "answer": "B",
+        "topic": "Python",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Which special method is commonly used to initialize an object in Python?",
+        "options": {
+            "A": "__start__()",
+            "B": "__create__()",
+            "C": "__init__()",
+            "D": "__object__()"
+        },
+        "answer": "C",
+        "topic": "Python",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "What does AI stand for?",
+        "options": {
+            "A": "Automated Internet",
+            "B": "Artificial Intelligence",
+            "C": "Advanced Information",
+            "D": "Artificial Internet"
+        },
+        "answer": "B",
+        "topic": "AI",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which of these is an example of AI?",
+        "options": {
+            "A": "Voice assistant",
+            "B": "Calculator",
+            "C": "Keyboard",
+            "D": "Monitor"
+        },
+        "answer": "A",
+        "topic": "AI",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which field is a major part of Artificial Intelligence?",
+        "options": {
+            "A": "Machine Learning",
+            "B": "Word Processing",
+            "C": "Typing",
+            "D": "Printing"
+        },
+        "answer": "A",
+        "topic": "AI",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which type of learning uses labeled training data?",
+        "options": {
+            "A": "Unsupervised learning",
+            "B": "Supervised learning",
+            "C": "Random learning",
+            "D": "Manual learning"
+        },
+        "answer": "B",
+        "topic": "AI",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which technique can help reduce overfitting in a neural network?",
+        "options": {
+            "A": "Dropout",
+            "B": "Removing validation data",
+            "C": "Increasing model complexity",
+            "D": "Removing training data"
+        },
+        "answer": "A",
+        "topic": "AI",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "What is the capital of India?",
+        "options": {
+            "A": "Mumbai",
+            "B": "New Delhi",
+            "C": "Hyderabad",
+            "D": "Chennai"
+        },
+        "answer": "B",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "How many days are there in a week?",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+        },
+        "answer": "C",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which keyword defines a function in Python?",
+        "options": {
+            "A": "func",
+            "B": "function",
+            "C": "define",
+            "D": "def"
+        },
+        "answer": "D",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which data type stores True or False?",
+        "options": {
+            "A": "String",
+            "B": "Boolean",
+            "C": "Integer",
+            "D": "Float"
+        },
+        "answer": "B",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which symbol starts a Python comment?",
+        "options": {
+            "A": "#",
+            "B": "--",
+            "C": "//",
+            "D": "/*"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which keyword creates a class?",
+        "options": {
+            "A": "class",
+            "B": "object",
+            "C": "create",
+            "D": "struct"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does len() return?",
+        "options": {
+            "A": "Data type",
+            "B": "Last index",
+            "C": "Memory address",
+            "D": "Number of items"
+        },
+        "answer": "D",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which structure stores key-value pairs?",
+        "options": {
+            "A": "Set",
+            "B": "Dictionary",
+            "C": "List",
+            "D": "Tuple"
+        },
+        "answer": "B",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which collection is ordered and mutable?",
+        "options": {
+            "A": "Frozen set",
+            "B": "Tuple",
+            "C": "List",
+            "D": "Set"
+        },
+        "answer": "C",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which collection is immutable?",
+        "options": {
+            "A": "Tuple",
+            "B": "Set",
+            "C": "Dictionary",
+            "D": "List"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which operator performs floor division?",
+        "options": {
+            "A": "%",
+            "B": "**",
+            "C": "//",
+            "D": "/"
+        },
+        "answer": "C",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which operator calculates a power?",
+        "options": {
+            "A": "^^",
+            "B": "**",
+            "C": "%%",
+            "D": "//"
+        },
+        "answer": "B",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which keyword is used for exception handling?",
+        "options": {
+            "A": "catch",
+            "B": "try",
+            "C": "error",
+            "D": "check"
+        },
+        "answer": "B",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which block runs whether an exception occurs or not?",
+        "options": {
+            "A": "except",
+            "B": "raise",
+            "C": "finally",
+            "D": "else"
+        },
+        "answer": "C",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which keyword manually raises an exception?",
+        "options": {
+            "A": "raise",
+            "B": "error",
+            "C": "throw",
+            "D": "except"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a lambda in Python?",
+        "options": {
+            "A": "Module",
+            "B": "Loop",
+            "C": "Class",
+            "D": "Anonymous function"
+        },
+        "answer": "D",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which keyword imports a module?",
+        "options": {
+            "A": "import",
+            "B": "using",
+            "C": "require",
+            "D": "include"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which package manager commonly installs Python packages?",
+        "options": {
+            "A": "npm",
+            "B": "gem",
+            "C": "maven",
+            "D": "pip"
+        },
+        "answer": "D",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does PEP 8 describe?",
+        "options": {
+            "A": "Database rules",
+            "B": "Python style guidelines",
+            "C": "Web standards",
+            "D": "Testing rules"
+        },
+        "answer": "B",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which function converts a value to an integer?",
+        "options": {
+            "A": "int()",
+            "B": "bool()",
+            "C": "str()",
+            "D": "float()"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which function converts a value to a string?",
+        "options": {
+            "A": "char()",
+            "B": "string()",
+            "C": "str()",
+            "D": "text()"
+        },
+        "answer": "C",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does range(5) produce?",
+        "options": {
+            "A": "0 through 4",
+            "B": "0 through 5",
+            "C": "1 through 5",
+            "D": "5 only"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which keyword exits a loop immediately?",
+        "options": {
+            "A": "exitloop",
+            "B": "returnloop",
+            "C": "break",
+            "D": "stop"
+        },
+        "answer": "C",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which keyword skips to the next loop iteration?",
+        "options": {
+            "A": "passloop",
+            "B": "next",
+            "C": "continue",
+            "D": "skip"
+        },
+        "answer": "C",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does pass do?",
+        "options": {
+            "A": "Stops program",
+            "B": "Raises error",
+            "C": "Repeats loop",
+            "D": "Nothing; placeholder statement"
+        },
+        "answer": "D",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which OOP concept hides internal implementation details?",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Inheritance",
+            "C": "Compilation",
+            "D": "Iteration"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which OOP concept allows a class to derive from another class?",
+        "options": {
+            "A": "Iteration",
+            "B": "Parsing",
+            "C": "Encapsulation",
+            "D": "Inheritance"
+        },
+        "answer": "D",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which special method initializes an object?",
+        "options": {
+            "A": "__init__()",
+            "B": "__newclass__()",
+            "C": "__create__()",
+            "D": "__start__()"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which function returns the type of an object?",
+        "options": {
+            "A": "type()",
+            "B": "typeof()",
+            "C": "classof()",
+            "D": "kind()"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which data structure contains unique unordered elements?",
+        "options": {
+            "A": "Set",
+            "B": "String",
+            "C": "List",
+            "D": "Tuple"
+        },
+        "answer": "A",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does dictionary.get(key) do?",
+        "options": {
+            "A": "Deletes a key",
+            "B": "Retrieves a value for a key",
+            "C": "Adds a key",
+            "D": "Sorts a dictionary"
+        },
+        "answer": "B",
+        "topic": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which statement is used to handle an exception?",
+        "options": {
+            "A": "rescue",
+            "B": "except",
+            "C": "handle",
+            "D": "catch"
+        },
+        "answer": "B",
+        "topic": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which is a branch of AI?",
+        "options": {
+            "A": "Formatting",
+            "B": "Word Processing",
+            "C": "File Management",
+            "D": "Machine Learning"
+        },
+        "answer": "D",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is an intelligent agent?",
+        "options": {
+            "A": "System that perceives and acts",
+            "B": "A compiler",
+            "C": "A printer",
+            "D": "Only a database"
+        },
+        "answer": "A",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the Turing Test used to evaluate?",
+        "options": {
+            "A": "Machine intelligence",
+            "B": "CPU speed",
+            "C": "Storage size",
+            "D": "Network bandwidth"
+        },
+        "answer": "A",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which AI field deals with human language?",
+        "options": {
+            "A": "Networking",
+            "B": "Natural Language Processing",
+            "C": "Operating Systems",
+            "D": "Computer Graphics"
+        },
+        "answer": "B",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which AI field deals with images and video?",
+        "options": {
+            "A": "Computer Vision",
+            "B": "Compilers",
+            "C": "Data Entry",
+            "D": "Word Processing"
+        },
+        "answer": "A",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is an expert system?",
+        "options": {
+            "A": "Web browser",
+            "B": "Operating system",
+            "C": "Rule-based knowledge system",
+            "D": "Database engine"
+        },
+        "answer": "C",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a knowledge base?",
+        "options": {
+            "A": "Collection of stored facts and rules",
+            "B": "A graphics card",
+            "C": "A compiler",
+            "D": "A network cable"
+        },
+        "answer": "A",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which search uses a queue?",
+        "options": {
+            "A": "Minimax",
+            "B": "Depth-First Search",
+            "C": "Breadth-First Search",
+            "D": "Hill Climbing"
+        },
+        "answer": "C",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which search commonly uses a stack?",
+        "options": {
+            "A": "Uniform Cost Search",
+            "B": "Beam Search",
+            "C": "Depth-First Search",
+            "D": "Breadth-First Search"
+        },
+        "answer": "C",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is heuristic search?",
+        "options": {
+            "A": "Database search",
+            "B": "Text search",
+            "C": "Search guided by estimated cost",
+            "D": "Random search only"
+        },
+        "answer": "C",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "A* search combines path cost with what?",
+        "options": {
+            "A": "Heuristic estimate",
+            "B": "Image pixels",
+            "C": "Database index",
+            "D": "Random number"
+        },
+        "answer": "A",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is NLP?",
+        "options": {
+            "A": "Processing human language",
+            "B": "Processing hardware",
+            "C": "Processing databases",
+            "D": "Processing networks"
+        },
+        "answer": "A",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is speech recognition?",
+        "options": {
+            "A": "Compressing data",
+            "B": "Creating images",
+            "C": "Converting speech to text or commands",
+            "D": "Encrypting files"
+        },
+        "answer": "C",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is robotics?",
+        "options": {
+            "A": "Field combining intelligent machines and control",
+            "B": "Database management",
+            "C": "Only web design",
+            "D": "File compression"
+        },
+        "answer": "A",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is computer vision used for?",
+        "options": {
+            "A": "Understanding visual data",
+            "B": "Compiling code",
+            "C": "Sorting files",
+            "D": "Managing passwords"
+        },
+        "answer": "A",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is planning in AI?",
+        "options": {
+            "A": "Creating databases",
+            "B": "Formatting text",
+            "C": "Selecting actions to achieve goals",
+            "D": "Drawing charts"
+        },
+        "answer": "C",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a rational agent?",
+        "options": {
+            "A": "Agent without sensors",
+            "B": "Agent that never acts",
+            "C": "Agent that chooses actions to maximize performance",
+            "D": "Agent that always guesses"
+        },
+        "answer": "C",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a state space?",
+        "options": {
+            "A": "Storage device",
+            "B": "Network map only",
+            "C": "Source code",
+            "D": "Set of possible states of a problem"
+        },
+        "answer": "D",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is minimax commonly used for?",
+        "options": {
+            "A": "Image compression",
+            "B": "Game playing",
+            "C": "Database indexing",
+            "D": "Speech synthesis"
+        },
+        "answer": "B",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What does pruning in game search reduce?",
+        "options": {
+            "A": "Image size",
+            "B": "Training data",
+            "C": "Database rows",
+            "D": "Unnecessary branches"
+        },
+        "answer": "D",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is fuzzy logic?",
+        "options": {
+            "A": "Network routing",
+            "B": "Logic using only true/false",
+            "C": "Logic with degrees of truth",
+            "D": "Database logic"
+        },
+        "answer": "C",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a neural network inspired by?",
+        "options": {
+            "A": "Database tables",
+            "B": "Biological neurons",
+            "C": "CPU registers",
+            "D": "Network cables"
+        },
+        "answer": "B",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is an AI chatbot designed to do?",
+        "options": {
+            "A": "Only compile code",
+            "B": "Interact using natural language",
+            "C": "Only store images",
+            "D": "Only route packets"
+        },
+        "answer": "B",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is recommendation in AI?",
+        "options": {
+            "A": "Creating IP addresses",
+            "B": "Formatting disks",
+            "C": "Encrypting data",
+            "D": "Suggesting relevant items"
+        },
+        "answer": "D",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is knowledge representation?",
+        "options": {
+            "A": "Representing facts and relationships for reasoning",
+            "B": "Designing CPUs",
+            "C": "Managing cables",
+            "D": "Compressing videos"
+        },
+        "answer": "A",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is reasoning in AI?",
+        "options": {
+            "A": "Installing software",
+            "B": "Deriving conclusions from knowledge",
+            "C": "Drawing interfaces",
+            "D": "Deleting data"
+        },
+        "answer": "B",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is supervised AI learning based on?",
+        "options": {
+            "A": "Hardware signals",
+            "B": "Only random numbers",
+            "C": "Labeled examples",
+            "D": "No data"
+        },
+        "answer": "C",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is an autonomous system?",
+        "options": {
+            "A": "A database table",
+            "B": "A static webpage",
+            "C": "System that can operate with limited human intervention",
+            "D": "A manual calculator"
+        },
+        "answer": "C",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is an AI model?",
+        "options": {
+            "A": "A file extension",
+            "B": "A network cable",
+            "C": "A keyboard",
+            "D": "Learned or programmed representation used to make predictions or decisions"
+        },
+        "answer": "D",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is machine learning?",
+        "options": {
+            "A": "Writing only manual rules",
+            "B": "Managing hardware",
+            "C": "Creating networks",
+            "D": "Learning patterns from data"
+        },
+        "answer": "D",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which learning uses labeled data?",
+        "options": {
+            "A": "Unsupervised learning",
+            "B": "Manual learning",
+            "C": "Supervised learning",
+            "D": "Random learning"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which learning uses unlabeled data?",
+        "options": {
+            "A": "Unsupervised learning",
+            "B": "Manual learning",
+            "C": "Rule learning",
+            "D": "Supervised learning"
+        },
+        "answer": "A",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which learning uses a reward signal?",
+        "options": {
+            "A": "Batch learning",
+            "B": "Supervised learning",
+            "C": "Reinforcement learning",
+            "D": "Unsupervised learning"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which algorithm is used for classification?",
+        "options": {
+            "A": "K-Means only",
+            "B": "Decision Tree",
+            "C": "Apriori only",
+            "D": "PCA only"
+        },
+        "answer": "B",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which algorithm is commonly used for clustering?",
+        "options": {
+            "A": "Naive Bayes",
+            "B": "K-Means",
+            "C": "Linear Regression",
+            "D": "Logistic Regression"
+        },
+        "answer": "B",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does regression predict?",
+        "options": {
+            "A": "Only text",
+            "B": "Only categories",
+            "C": "Continuous values",
+            "D": "Only images"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does classification predict?",
+        "options": {
+            "A": "Only continuous values",
+            "B": "Classes or categories",
+            "C": "Database keys",
+            "D": "Network routes"
+        },
+        "answer": "B",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is overfitting?",
+        "options": {
+            "A": "Data is deleted",
+            "B": "No training occurs",
+            "C": "Model learns training data too closely",
+            "D": "Model is too simple"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is underfitting?",
+        "options": {
+            "A": "Model is too simple to capture patterns",
+            "B": "Model has too many layers",
+            "C": "Model memorizes all data",
+            "D": "Model has no features"
+        },
+        "answer": "A",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a training set?",
+        "options": {
+            "A": "Unused data",
+            "B": "Data used only after deployment",
+            "C": "Only test labels",
+            "D": "Data used to learn model parameters"
+        },
+        "answer": "D",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a test set?",
+        "options": {
+            "A": "Data used to train weights",
+            "B": "Only duplicate data",
+            "C": "Only missing data",
+            "D": "Data used for final evaluation"
+        },
+        "answer": "D",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Why use a validation set?",
+        "options": {
+            "A": "To replace training",
+            "B": "To tune and compare models",
+            "C": "To store passwords",
+            "D": "To remove all features"
+        },
+        "answer": "B",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is accuracy?",
+        "options": {
+            "A": "Mean squared error",
+            "B": "Fraction of false positives only",
+            "C": "Number of features",
+            "D": "Fraction of correct predictions"
+        },
+        "answer": "D",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does precision measure?",
+        "options": {
+            "A": "Correct negatives only",
+            "B": "Correct positive predictions among predicted positives",
+            "C": "Training speed",
+            "D": "All correct predictions"
+        },
+        "answer": "B",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What does recall measure?",
+        "options": {
+            "A": "Training time",
+            "B": "Model size",
+            "C": "Correct positives among actual positives",
+            "D": "Correct negatives among actual negatives"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is F1-score?",
+        "options": {
+            "A": "Number of classes",
+            "B": "Mean of features",
+            "C": "Harmonic mean of precision and recall",
+            "D": "Training loss only"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which algorithm uses nearest examples?",
+        "options": {
+            "A": "K-Means",
+            "B": "Decision Tree",
+            "C": "K-Nearest Neighbors",
+            "D": "PCA"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which model uses hyperplanes for classification?",
+        "options": {
+            "A": "K-Means",
+            "B": "Support Vector Machine",
+            "C": "PCA",
+            "D": "Apriori"
+        },
+        "answer": "B",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is an ensemble method?",
+        "options": {
+            "A": "Using no validation",
+            "B": "Combining multiple models",
+            "C": "Removing training data",
+            "D": "Using one feature"
+        },
+        "answer": "B",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Random Forest is based on multiple what?",
+        "options": {
+            "A": "Clusters",
+            "B": "Neural networks",
+            "C": "Decision trees",
+            "D": "SVMs only"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is feature scaling?",
+        "options": {
+            "A": "Deleting features",
+            "B": "Creating labels",
+            "C": "Splitting classes",
+            "D": "Putting features on comparable scales"
+        },
+        "answer": "D",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which method commonly scales data to 0 to 1?",
+        "options": {
+            "A": "Bagging",
+            "B": "Min-Max scaling",
+            "C": "Pruning",
+            "D": "One-hot encoding"
+        },
+        "answer": "B",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is one-hot encoding used for?",
+        "options": {
+            "A": "Scaling continuous values",
+            "B": "Selecting a model",
+            "C": "Representing categorical values numerically",
+            "D": "Removing outliers"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is cross-validation?",
+        "options": {
+            "A": "Repeated train-validation splitting",
+            "B": "Training without testing",
+            "C": "Deleting samples",
+            "D": "Only feature scaling"
+        },
+        "answer": "A",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a hyperparameter?",
+        "options": {
+            "A": "A database key",
+            "B": "A prediction",
+            "C": "Setting chosen before/during training rather than learned as a model parameter",
+            "D": "A target label"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is gradient descent used for?",
+        "options": {
+            "A": "Encrypting data",
+            "B": "Optimizing model parameters",
+            "C": "Collecting labels",
+            "D": "Sorting rows"
+        },
+        "answer": "B",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a loss function?",
+        "options": {
+            "A": "Stores labels",
+            "B": "Measures model error during training",
+            "C": "Creates plots",
+            "D": "Counts features"
+        },
+        "answer": "B",
+        "topic": "Machine Learning",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is dimensionality reduction?",
+        "options": {
+            "A": "Increasing dataset size",
+            "B": "Adding labels",
+            "C": "Reducing number of input features",
+            "D": "Duplicating rows"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which technique reduces dimensions linearly?",
+        "options": {
+            "A": "Random Forest",
+            "B": "Naive Bayes",
+            "C": "PCA",
+            "D": "KNN"
+        },
+        "answer": "C",
+        "topic": "Machine Learning",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": {
+            "A": "Home Tool Markup Language",
+            "B": "HyperText Markup Language",
+            "C": "HighText Machine Language",
+            "D": "Hyperlink Text Management Language"
+        },
+        "answer": "B",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag creates the largest heading?",
+        "options": {
+            "A": "<h1>",
+            "B": "<head>",
+            "C": "<h6>",
+            "D": "<heading>"
+        },
+        "answer": "A",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag creates a paragraph?",
+        "options": {
+            "A": "<para>",
+            "B": "<p>",
+            "C": "<text>",
+            "D": "<pg>"
+        },
+        "answer": "B",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag creates a hyperlink?",
+        "options": {
+            "A": "<url>",
+            "B": "<a>",
+            "C": "<link>",
+            "D": "<href>"
+        },
+        "answer": "B",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which attribute specifies a link destination?",
+        "options": {
+            "A": "targeturl",
+            "B": "href",
+            "C": "link",
+            "D": "src"
+        },
+        "answer": "B",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag inserts an image?",
+        "options": {
+            "A": "<src>",
+            "B": "<img>",
+            "C": "<image>",
+            "D": "<pic>"
+        },
+        "answer": "B",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which attribute provides alternative image text?",
+        "options": {
+            "A": "title",
+            "B": "alt",
+            "C": "text",
+            "D": "caption"
+        },
+        "answer": "B",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag creates an unordered list?",
+        "options": {
+            "A": "<list>",
+            "B": "<ol>",
+            "C": "<li>",
+            "D": "<ul>"
+        },
+        "answer": "D",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag creates an ordered list?",
+        "options": {
+            "A": "<order>",
+            "B": "<ul>",
+            "C": "<ol>",
+            "D": "<li>"
+        },
+        "answer": "C",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag represents a list item?",
+        "options": {
+            "A": "<ulitem>",
+            "B": "<listitem>",
+            "C": "<li>",
+            "D": "<item>"
+        },
+        "answer": "C",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag defines a table row?",
+        "options": {
+            "A": "<th>",
+            "B": "<row>",
+            "C": "<tr>",
+            "D": "<td>"
+        },
+        "answer": "C",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag defines a table data cell?",
+        "options": {
+            "A": "<td>",
+            "B": "<data>",
+            "C": "<cell>",
+            "D": "<tr>"
+        },
+        "answer": "A",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag defines a table header cell?",
+        "options": {
+            "A": "<th>",
+            "B": "<theadcell>",
+            "C": "<trh>",
+            "D": "<header>"
+        },
+        "answer": "A",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag creates a form?",
+        "options": {
+            "A": "<form>",
+            "B": "<input>",
+            "C": "<submit>",
+            "D": "<field>"
+        },
+        "answer": "A",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which input type hides typed characters?",
+        "options": {
+            "A": "password",
+            "B": "hidden",
+            "C": "secure",
+            "D": "secret"
+        },
+        "answer": "A",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which input type selects one option from a group?",
+        "options": {
+            "A": "selectone",
+            "B": "checkbox",
+            "C": "radio",
+            "D": "choice"
+        },
+        "answer": "C",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which input type allows multiple selections?",
+        "options": {
+            "A": "checkbox",
+            "B": "radio",
+            "C": "select",
+            "D": "multiple"
+        },
+        "answer": "A",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag creates a drop-down list?",
+        "options": {
+            "A": "<dropdown>",
+            "B": "<select>",
+            "C": "<optionlist>",
+            "D": "<listbox>"
+        },
+        "answer": "B",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag defines an option in a select?",
+        "options": {
+            "A": "<option>",
+            "B": "<choice>",
+            "C": "<selectitem>",
+            "D": "<item>"
+        },
+        "answer": "A",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag embeds a video?",
+        "options": {
+            "A": "<video>",
+            "B": "<vid>",
+            "C": "<media>",
+            "D": "<movie>"
+        },
+        "answer": "A",
+        "topic": "HTML",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which tag embeds audio?",
+        "options": {
+            "A": "<mp3>",
+            "B": "<music>",
+            "C": "<sound>",
+            "D": "<audio>"
+        },
+        "answer": "D",
+        "topic": "HTML",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which declaration identifies an HTML5 document?",
+        "options": {
+            "A": "<!DOCTYPE html>",
+            "B": "<HTML5>",
+            "C": "<!HTML>",
+            "D": "<DOCTYPE5>"
+        },
+        "answer": "A",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which semantic tag represents navigation links?",
+        "options": {
+            "A": "<links>",
+            "B": "<nav>",
+            "C": "<navigate>",
+            "D": "<menu>"
+        },
+        "answer": "B",
+        "topic": "HTML",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which semantic tag represents the main content?",
+        "options": {
+            "A": "<bodymain>",
+            "B": "<main>",
+            "C": "<content>",
+            "D": "<primary>"
+        },
+        "answer": "B",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag defines the document title shown in a browser tab?",
+        "options": {
+            "A": "<headtitle>",
+            "B": "<caption>",
+            "C": "<tab>",
+            "D": "<title>"
+        },
+        "answer": "D",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag contains metadata?",
+        "options": {
+            "A": "<info>",
+            "B": "<meta>",
+            "C": "<head>",
+            "D": "<data>"
+        },
+        "answer": "C",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag contains visible page content?",
+        "options": {
+            "A": "<mainpage>",
+            "B": "<content>",
+            "C": "<page>",
+            "D": "<body>"
+        },
+        "answer": "D",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which attribute gives a unique identifier?",
+        "options": {
+            "A": "key",
+            "B": "id",
+            "C": "nameid",
+            "D": "class"
+        },
+        "answer": "B",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which attribute groups elements for styling?",
+        "options": {
+            "A": "styleclass",
+            "B": "class",
+            "C": "css",
+            "D": "group"
+        },
+        "answer": "B",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which tag creates a line break?",
+        "options": {
+            "A": "<newline>",
+            "B": "<lb>",
+            "C": "<break>",
+            "D": "<br>"
+        },
+        "answer": "D",
+        "topic": "HTML",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does SQL stand for?",
+        "options": {
+            "A": "Structured Question Language",
+            "B": "Simple Query Language",
+            "C": "System Query Logic",
+            "D": "Structured Query Language"
+        },
+        "answer": "D",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which command retrieves data?",
+        "options": {
+            "A": "READ",
+            "B": "FETCH",
+            "C": "GET",
+            "D": "SELECT"
+        },
+        "answer": "D",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which clause filters rows?",
+        "options": {
+            "A": "CHECK",
+            "B": "FILTER",
+            "C": "HAVING",
+            "D": "WHERE"
+        },
+        "answer": "D",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which clause sorts results?",
+        "options": {
+            "A": "ARRANGE",
+            "B": "GROUP BY",
+            "C": "ORDER BY",
+            "D": "SORT"
+        },
+        "answer": "C",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which keyword removes duplicate rows from results?",
+        "options": {
+            "A": "UNIQUEONLY",
+            "B": "NODUP",
+            "C": "DIFFERENT",
+            "D": "DISTINCT"
+        },
+        "answer": "D",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which function counts rows?",
+        "options": {
+            "A": "NUMBER()",
+            "B": "COUNT()",
+            "C": "TOTAL()",
+            "D": "ROWS()"
+        },
+        "answer": "B",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which function calculates an average?",
+        "options": {
+            "A": "MEAN()",
+            "B": "MID()",
+            "C": "AVERAGE()",
+            "D": "AVG()"
+        },
+        "answer": "D",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which function finds the largest value?",
+        "options": {
+            "A": "LARGE()",
+            "B": "MAX()",
+            "C": "HIGH()",
+            "D": "TOP()"
+        },
+        "answer": "B",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which function finds the smallest value?",
+        "options": {
+            "A": "SMALL()",
+            "B": "MIN()",
+            "C": "BOTTOM()",
+            "D": "LOW()"
+        },
+        "answer": "B",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which clause groups rows?",
+        "options": {
+            "A": "COLLECT BY",
+            "B": "CLUSTER BY",
+            "C": "ORDER BY",
+            "D": "GROUP BY"
+        },
+        "answer": "D",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which clause filters grouped results?",
+        "options": {
+            "A": "GROUPFILTER",
+            "B": "AFTER",
+            "C": "HAVING",
+            "D": "WHERE"
+        },
+        "answer": "C",
+        "topic": "SQL",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which join returns matching rows from both tables?",
+        "options": {
+            "A": "EQUAL JOIN",
+            "B": "INNER JOIN",
+            "C": "COMMON JOIN",
+            "D": "MATCH JOIN"
+        },
+        "answer": "B",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which join returns all rows from the left table?",
+        "options": {
+            "A": "RIGHT JOIN",
+            "B": "LEFT JOIN",
+            "C": "FULL JOIN",
+            "D": "INNER JOIN"
+        },
+        "answer": "B",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which command adds new rows?",
+        "options": {
+            "A": "INSERT",
+            "B": "ADD ROW",
+            "C": "APPEND",
+            "D": "CREATE ROW"
+        },
+        "answer": "A",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which command modifies existing rows?",
+        "options": {
+            "A": "ALTER ROW",
+            "B": "MODIFY",
+            "C": "CHANGE",
+            "D": "UPDATE"
+        },
+        "answer": "D",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which command removes rows?",
+        "options": {
+            "A": "REMOVE",
+            "B": "DELETE",
+            "C": "DROP ROW",
+            "D": "ERASE"
+        },
+        "answer": "B",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which command creates a table?",
+        "options": {
+            "A": "BUILD TABLE",
+            "B": "CREATE TABLE",
+            "C": "MAKE TABLE",
+            "D": "NEW TABLE"
+        },
+        "answer": "B",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which command changes table structure?",
+        "options": {
+            "A": "MODIFY DATA",
+            "B": "UPDATE TABLE",
+            "C": "ALTER TABLE",
+            "D": "CHANGE TABLE DATA"
+        },
+        "answer": "C",
+        "topic": "SQL",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which command deletes a table?",
+        "options": {
+            "A": "REMOVE TABLE",
+            "B": "CLEAR TABLE",
+            "C": "DELETE TABLE",
+            "D": "DROP TABLE"
+        },
+        "answer": "D",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a primary key?",
+        "options": {
+            "A": "Unique identifier for rows",
+            "B": "Duplicate field",
+            "C": "Optional comment",
+            "D": "Foreign reference only"
+        },
+        "answer": "A",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a foreign key?",
+        "options": {
+            "A": "Primary password",
+            "B": "Duplicate key",
+            "C": "Sorting key",
+            "D": "Column referencing another table's key"
+        },
+        "answer": "D",
+        "topic": "SQL",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which constraint prevents NULL values?",
+        "options": {
+            "A": "NONULLS",
+            "B": "REQUIRED",
+            "C": "NO EMPTY",
+            "D": "NOT NULL"
+        },
+        "answer": "D",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which constraint ensures uniqueness?",
+        "options": {
+            "A": "DISTINCT",
+            "B": "SINGLE",
+            "C": "UNIQUE",
+            "D": "ONLY"
+        },
+        "answer": "C",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which command saves a transaction?",
+        "options": {
+            "A": "SAVE",
+            "B": "STORE",
+            "C": "COMMIT",
+            "D": "APPLY"
+        },
+        "answer": "C",
+        "topic": "SQL",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which command undoes a transaction?",
+        "options": {
+            "A": "REVERT",
+            "B": "ROLLBACK",
+            "C": "CANCELSQL",
+            "D": "UNDO"
+        },
+        "answer": "B",
+        "topic": "SQL",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is an index used for?",
+        "options": {
+            "A": "Storing images",
+            "B": "Creating users",
+            "C": "Encrypting passwords",
+            "D": "Faster data retrieval"
+        },
+        "answer": "D",
+        "topic": "SQL",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a subquery?",
+        "options": {
+            "A": "Query nested inside another query",
+            "B": "Query without SELECT",
+            "C": "Deleted query",
+            "D": "Backup query"
+        },
+        "answer": "A",
+        "topic": "SQL",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which operator tests whether a value is within a range?",
+        "options": {
+            "A": "WITHIN",
+            "B": "BETWEEN",
+            "C": "RANGE",
+            "D": "INRANGE"
+        },
+        "answer": "B",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which operator tests membership in a list?",
+        "options": {
+            "A": "IN",
+            "B": "LISTED",
+            "C": "CONTAINS",
+            "D": "MEMBER"
+        },
+        "answer": "A",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which wildcard represents any sequence of characters in LIKE?",
+        "options": {
+            "A": "?",
+            "B": "*",
+            "C": "%",
+            "D": "_"
+        },
+        "answer": "C",
+        "topic": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is data science?",
+        "options": {
+            "A": "Only web development",
+            "B": "Only statistics",
+            "C": "Field that extracts insights from data",
+            "D": "Only database design"
+        },
+        "answer": "C",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which Python library is widely used for tabular data?",
+        "options": {
+            "A": "Django",
+            "B": "Pandas",
+            "C": "Flask",
+            "D": "Tkinter"
+        },
+        "answer": "B",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which library provides arrays and numerical operations?",
+        "options": {
+            "A": "NumPy",
+            "B": "Requests",
+            "C": "PyGame",
+            "D": "BeautifulSoup"
+        },
+        "answer": "A",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which library is commonly used for plotting?",
+        "options": {
+            "A": "TkinterSQL",
+            "B": "NumPyPlotOnly",
+            "C": "Matplotlib",
+            "D": "PandasSQL"
+        },
+        "answer": "C",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is data cleaning?",
+        "options": {
+            "A": "Fixing missing, incorrect, or inconsistent data",
+            "B": "Deleting all data",
+            "C": "Printing data",
+            "D": "Encrypting data"
+        },
+        "answer": "A",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is an outlier?",
+        "options": {
+            "A": "Observation far from typical values",
+            "B": "Normal value",
+            "C": "Duplicate table",
+            "D": "Missing column"
+        },
+        "answer": "A",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is missing data?",
+        "options": {
+            "A": "Correct value",
+            "B": "Extra row",
+            "C": "Expected value that is absent",
+            "D": "Sorted data"
+        },
+        "answer": "C",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is exploratory data analysis?",
+        "options": {
+            "A": "Writing APIs",
+            "B": "Deploying software",
+            "C": "Investigating data patterns and distributions",
+            "D": "Encrypting files"
+        },
+        "answer": "C",
+        "topic": "Data Science",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a histogram used for?",
+        "options": {
+            "A": "Storing data",
+            "B": "Showing distribution of numerical data",
+            "C": "Displaying network packets",
+            "D": "Showing source code"
+        },
+        "answer": "B",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does a scatter plot show?",
+        "options": {
+            "A": "Database keys",
+            "B": "Text paragraphs",
+            "C": "Relationship between two numerical variables",
+            "D": "Only categories"
+        },
+        "answer": "C",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is correlation?",
+        "options": {
+            "A": "Model accuracy only",
+            "B": "Cause of every event",
+            "C": "Data size",
+            "D": "Measure of association between variables"
+        },
+        "answer": "D",
+        "topic": "Data Science",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a positive correlation?",
+        "options": {
+            "A": "One increases as other always decreases",
+            "B": "No relationship",
+            "C": "Both remain constant",
+            "D": "Variables tend to increase together"
+        },
+        "answer": "D",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is mean?",
+        "options": {
+            "A": "Middle value only",
+            "B": "Arithmetic average",
+            "C": "Most frequent value",
+            "D": "Range"
+        },
+        "answer": "B",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is median?",
+        "options": {
+            "A": "Middle value after ordering",
+            "B": "Most frequent value",
+            "C": "Largest value",
+            "D": "Arithmetic average"
+        },
+        "answer": "A",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is mode?",
+        "options": {
+            "A": "Average",
+            "B": "Smallest value",
+            "C": "Most frequent value",
+            "D": "Middle value"
+        },
+        "answer": "C",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is standard deviation?",
+        "options": {
+            "A": "Number of rows",
+            "B": "Measure of center",
+            "C": "Measure of spread around the mean",
+            "D": "Model score"
+        },
+        "answer": "C",
+        "topic": "Data Science",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is normalization?",
+        "options": {
+            "A": "Removing labels",
+            "B": "Rescaling values to a common range",
+            "C": "Adding rows",
+            "D": "Sorting columns"
+        },
+        "answer": "B",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is data visualization?",
+        "options": {
+            "A": "Graphical representation of data",
+            "B": "Data encryption",
+            "C": "Database backup",
+            "D": "Data deletion"
+        },
+        "answer": "A",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a dashboard?",
+        "options": {
+            "A": "Visual display of key metrics and charts",
+            "B": "Python package",
+            "C": "SQL command",
+            "D": "Operating system"
+        },
+        "answer": "A",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is feature engineering?",
+        "options": {
+            "A": "Deleting all features",
+            "B": "Creating useful input features from raw data",
+            "C": "Deploying servers",
+            "D": "Writing documentation"
+        },
+        "answer": "B",
+        "topic": "Data Science",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is sampling?",
+        "options": {
+            "A": "Sorting data",
+            "B": "Encrypting data",
+            "C": "Deleting data randomly",
+            "D": "Selecting a subset of data"
+        },
+        "answer": "D",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is bias in data?",
+        "options": {
+            "A": "Systematic distortion or imbalance",
+            "B": "File size",
+            "C": "Random formatting",
+            "D": "Data type"
+        },
+        "answer": "A",
+        "topic": "Data Science",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is data preprocessing?",
+        "options": {
+            "A": "Preparing data before analysis or modeling",
+            "B": "Backing up code",
+            "C": "Deleting a model",
+            "D": "Publishing a website"
+        },
+        "answer": "A",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a categorical variable?",
+        "options": {
+            "A": "Always a continuous number",
+            "B": "Variable representing categories",
+            "C": "Only a timestamp",
+            "D": "Only an image"
+        },
+        "answer": "B",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a numerical variable?",
+        "options": {
+            "A": "Boolean only",
+            "B": "Text category only",
+            "C": "Variable represented by numeric values",
+            "D": "Image label only"
+        },
+        "answer": "C",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is time-series data?",
+        "options": {
+            "A": "Observations indexed over time",
+            "B": "Only categorical data",
+            "C": "Only image data",
+            "D": "Random unordered data"
+        },
+        "answer": "A",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is ETL?",
+        "options": {
+            "A": "Encode, Test, Link",
+            "B": "Evaluate, Train, Learn",
+            "C": "Extract, Transform, Load",
+            "D": "Extract, Test, Label"
+        },
+        "answer": "C",
+        "topic": "Data Science",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a data warehouse?",
+        "options": {
+            "A": "Operating system",
+            "B": "Programming language",
+            "C": "Web server",
+            "D": "Centralized store for analytical data"
+        },
+        "answer": "D",
+        "topic": "Data Science",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a data pipeline?",
+        "options": {
+            "A": "A single SQL query",
+            "B": "Automated flow of data through processing steps",
+            "C": "A chart",
+            "D": "A computer cable"
+        },
+        "answer": "B",
+        "topic": "Data Science",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is reproducibility in data science?",
+        "options": {
+            "A": "Deleting source data",
+            "B": "Ability to obtain consistent results using the same process and data",
+            "C": "Changing methods every time",
+            "D": "Using random methods only"
+        },
+        "answer": "B",
+        "topic": "Data Science",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a computer network?",
+        "options": {
+            "A": "A text editor",
+            "B": "A database only",
+            "C": "A single CPU",
+            "D": "Connected devices that communicate"
+        },
+        "answer": "D",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does LAN stand for?",
+        "options": {
+            "A": "Large Access Network",
+            "B": "Local Access Node",
+            "C": "Local Area Network",
+            "D": "Linked Area Node"
+        },
+        "answer": "C",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does WAN stand for?",
+        "options": {
+            "A": "Web Area Node",
+            "B": "Wide Access Node",
+            "C": "Wireless Access Network",
+            "D": "Wide Area Network"
+        },
+        "answer": "D",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which device connects different networks?",
+        "options": {
+            "A": "Router",
+            "B": "Hub",
+            "C": "Repeater",
+            "D": "Switch"
+        },
+        "answer": "A",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which device forwards frames within a LAN?",
+        "options": {
+            "A": "Switch",
+            "B": "Gateway only",
+            "C": "Router",
+            "D": "Modem"
+        },
+        "answer": "A",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which protocol translates domain names to IP addresses?",
+        "options": {
+            "A": "FTP",
+            "B": "DHCP",
+            "C": "DNS",
+            "D": "HTTP"
+        },
+        "answer": "C",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which protocol automatically assigns IP addresses?",
+        "options": {
+            "A": "DNS",
+            "B": "SMTP",
+            "C": "ARP",
+            "D": "DHCP"
+        },
+        "answer": "D",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which protocol is used for web pages?",
+        "options": {
+            "A": "SSH",
+            "B": "HTTP",
+            "C": "SMTP",
+            "D": "FTP"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which secure protocol is used for web pages?",
+        "options": {
+            "A": "HTTP",
+            "B": "HTTPS",
+            "C": "Telnet",
+            "D": "FTP"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which protocol transfers files?",
+        "options": {
+            "A": "DNS",
+            "B": "SMTP",
+            "C": "ARP",
+            "D": "FTP"
+        },
+        "answer": "D",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which protocol is used for email sending?",
+        "options": {
+            "A": "FTP",
+            "B": "POP3",
+            "C": "IMAP",
+            "D": "SMTP"
+        },
+        "answer": "D",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which protocol is commonly used to receive email while keeping it on server?",
+        "options": {
+            "A": "SMTP",
+            "B": "IMAP",
+            "C": "FTP",
+            "D": "DNS"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is an IP address?",
+        "options": {
+            "A": "Physical cable",
+            "B": "Password",
+            "C": "Logical address for a network interface",
+            "D": "File name"
+        },
+        "answer": "C",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a MAC address?",
+        "options": {
+            "A": "Web URL",
+            "B": "Hardware/network interface address",
+            "C": "Port number",
+            "D": "Subnet mask"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which protocol maps IP addresses to MAC addresses on a LAN?",
+        "options": {
+            "A": "DHCP",
+            "B": "ARP",
+            "C": "ICMP",
+            "D": "DNS"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which protocol reports network errors and diagnostics?",
+        "options": {
+            "A": "HTTP",
+            "B": "FTP",
+            "C": "ICMP",
+            "D": "SMTP"
+        },
+        "answer": "C",
+        "topic": "Computer Networks",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a port number?",
+        "options": {
+            "A": "Physical cable number",
+            "B": "Logical endpoint identifier for network services",
+            "C": "IP version",
+            "D": "MAC address"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which OSI layer handles routing?",
+        "options": {
+            "A": "Session layer",
+            "B": "Network layer",
+            "C": "Physical layer",
+            "D": "Transport layer"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which OSI layer handles reliable end-to-end delivery?",
+        "options": {
+            "A": "Physical layer",
+            "B": "Transport layer",
+            "C": "Presentation layer",
+            "D": "Network layer"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which OSI layer transmits raw bits?",
+        "options": {
+            "A": "Session layer",
+            "B": "Physical layer",
+            "C": "Application layer",
+            "D": "Network layer"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which protocol is connection-oriented?",
+        "options": {
+            "A": "ICMP",
+            "B": "UDP",
+            "C": "TCP",
+            "D": "IP"
+        },
+        "answer": "C",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which protocol is connectionless?",
+        "options": {
+            "A": "SSH",
+            "B": "TCP",
+            "C": "FTP",
+            "D": "UDP"
+        },
+        "answer": "D",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is bandwidth?",
+        "options": {
+            "A": "Delay only",
+            "B": "Data transfer capacity",
+            "C": "Packet size only",
+            "D": "IP address range"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is latency?",
+        "options": {
+            "A": "Maximum speed",
+            "B": "Packet count",
+            "C": "Time delay in communication",
+            "D": "Cable length only"
+        },
+        "answer": "C",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is packet switching?",
+        "options": {
+            "A": "Sending one continuous signal only",
+            "B": "Database sorting",
+            "C": "File compression",
+            "D": "Sending data in packets across a network"
+        },
+        "answer": "D",
+        "topic": "Computer Networks",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a firewall?",
+        "options": {
+            "A": "Network cable",
+            "B": "System that controls network traffic",
+            "C": "File system",
+            "D": "Router antenna"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is topology?",
+        "options": {
+            "A": "Protocol name",
+            "B": "Arrangement of network devices and links",
+            "C": "Encryption method",
+            "D": "IP address type"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which topology has a central connecting device?",
+        "options": {
+            "A": "Mesh",
+            "B": "Bus",
+            "C": "Star",
+            "D": "Ring"
+        },
+        "answer": "C",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which topology connects devices in a closed loop?",
+        "options": {
+            "A": "Bus",
+            "B": "Ring",
+            "C": "Tree",
+            "D": "Star"
+        },
+        "answer": "B",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is network congestion?",
+        "options": {
+            "A": "Too much traffic for available capacity",
+            "B": "No network traffic",
+            "C": "High storage",
+            "D": "Strong encryption"
+        },
+        "answer": "A",
+        "topic": "Computer Networks",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does DBMS stand for?",
+        "options": {
+            "A": "Database Memory System",
+            "B": "Data Backup Management Service",
+            "C": "Database Management System",
+            "D": "Digital Base Management System"
+        },
+        "answer": "C",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a database?",
+        "options": {
+            "A": "A network cable",
+            "B": "Organized collection of data",
+            "C": "An operating system",
+            "D": "Only a program"
+        },
+        "answer": "B",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a table?",
+        "options": {
+            "A": "A network map",
+            "B": "A programming loop",
+            "C": "Rows and columns storing related data",
+            "D": "Only a chart"
+        },
+        "answer": "C",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a row?",
+        "options": {
+            "A": "A record in a table",
+            "B": "A database server",
+            "C": "A constraint",
+            "D": "A column name"
+        },
+        "answer": "A",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a column?",
+        "options": {
+            "A": "A query result only",
+            "B": "An attribute/field of a table",
+            "C": "A row record",
+            "D": "A complete database"
+        },
+        "answer": "B",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is denormalization?",
+        "options": {
+            "A": "Encrypting records",
+            "B": "Deleting keys",
+            "C": "Removing all redundancy",
+            "D": "Adding controlled redundancy for performance or convenience"
+        },
+        "answer": "D",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a transaction?",
+        "options": {
+            "A": "Logical unit of database work",
+            "B": "A backup file",
+            "C": "A user account",
+            "D": "A table column"
+        },
+        "answer": "A",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does ACID stand for?",
+        "options": {
+            "A": "Accuracy, Control, Integrity, Data",
+            "B": "Access, Consistency, Index, Data",
+            "C": "Atomicity, Control, Isolation, Data",
+            "D": "Atomicity, Consistency, Isolation, Durability"
+        },
+        "answer": "D",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What does atomicity mean?",
+        "options": {
+            "A": "Queries are sorted",
+            "B": "Data is duplicated",
+            "C": "Transactions are always fast",
+            "D": "Transaction happens completely or not at all"
+        },
+        "answer": "D",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What does consistency ensure?",
+        "options": {
+            "A": "All data is duplicated",
+            "B": "Database remains valid according to rules",
+            "C": "Users cannot log in",
+            "D": "Queries never fail"
+        },
+        "answer": "B",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What does isolation address?",
+        "options": {
+            "A": "Backup size",
+            "B": "Network speed",
+            "C": "Concurrent transactions not interfering incorrectly",
+            "D": "Disk formatting"
+        },
+        "answer": "C",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What does durability mean?",
+        "options": {
+            "A": "Queries are always fast",
+            "B": "Tables are normalized",
+            "C": "Committed changes survive failures",
+            "D": "Rows are unique"
+        },
+        "answer": "C",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a schema?",
+        "options": {
+            "A": "A user password",
+            "B": "A query result",
+            "C": "A backup only",
+            "D": "Structure/design of a database"
+        },
+        "answer": "D",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a view?",
+        "options": {
+            "A": "Database server",
+            "B": "Virtual table based on a query",
+            "C": "Backup table only",
+            "D": "Physical cable"
+        },
+        "answer": "B",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a stored procedure?",
+        "options": {
+            "A": "A password",
+            "B": "A table index",
+            "C": "Saved program of SQL statements",
+            "D": "A view only"
+        },
+        "answer": "C",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a trigger?",
+        "options": {
+            "A": "Manual query",
+            "B": "Action automatically executed by a database event",
+            "C": "Database password",
+            "D": "Table row"
+        },
+        "answer": "B",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is an index?",
+        "options": {
+            "A": "Structure that can speed up searches",
+            "B": "A constraint only",
+            "C": "A backup",
+            "D": "A duplicate database"
+        },
+        "answer": "A",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is referential integrity?",
+        "options": {
+            "A": "Sorting rows",
+            "B": "Encrypting columns",
+            "C": "Keeping foreign-key relationships valid",
+            "D": "Removing indexes"
+        },
+        "answer": "C",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is data redundancy?",
+        "options": {
+            "A": "Unnecessary repeated data",
+            "B": "Missing data",
+            "C": "Encrypted data",
+            "D": "Sorted data"
+        },
+        "answer": "A",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is concurrency control?",
+        "options": {
+            "A": "Changing passwords",
+            "B": "Formatting tables",
+            "C": "Managing simultaneous database operations",
+            "D": "Creating backups"
+        },
+        "answer": "C",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a deadlock?",
+        "options": {
+            "A": "Transactions waiting indefinitely for each other",
+            "B": "Duplicate row",
+            "C": "Fast query",
+            "D": "Database backup"
+        },
+        "answer": "A",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a database administrator?",
+        "options": {
+            "A": "Person responsible for managing databases",
+            "B": "Only a programmer",
+            "C": "Only a network user",
+            "D": "A web designer"
+        },
+        "answer": "A",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is backup?",
+        "options": {
+            "A": "Copy of data for recovery",
+            "B": "Sorting records",
+            "C": "Deleting data",
+            "D": "Creating indexes"
+        },
+        "answer": "A",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is recovery?",
+        "options": {
+            "A": "Creating a table",
+            "B": "Running SELECT",
+            "C": "Restoring database after failure",
+            "D": "Changing a password"
+        },
+        "answer": "C",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a candidate key?",
+        "options": {
+            "A": "Any duplicate field",
+            "B": "Index only",
+            "C": "Foreign key only",
+            "D": "Minimal attribute set that uniquely identifies a row"
+        },
+        "answer": "D",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a composite key?",
+        "options": {
+            "A": "Key made from multiple columns",
+            "B": "Only foreign key",
+            "C": "Key with no columns",
+            "D": "Temporary password"
+        },
+        "answer": "A",
+        "topic": "DBMS",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is an entity?",
+        "options": {
+            "A": "A backup",
+            "B": "Distinct real-world object represented in a database",
+            "C": "Only a query",
+            "D": "A constraint"
+        },
+        "answer": "B",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a relationship?",
+        "options": {
+            "A": "Association between entities",
+            "B": "A password",
+            "C": "A query error",
+            "D": "A table backup"
+        },
+        "answer": "A",
+        "topic": "DBMS",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is cloud computing?",
+        "options": {
+            "A": "A programming language",
+            "B": "A database table",
+            "C": "Only local computing",
+            "D": "On-demand access to computing resources over a network"
+        },
+        "answer": "D",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which is a cloud service model?",
+        "options": {
+            "A": "HTTP",
+            "B": "LAN",
+            "C": "IaaS",
+            "D": "CPU"
+        },
+        "answer": "C",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does IaaS provide?",
+        "options": {
+            "A": "Only source code",
+            "B": "Virtualized infrastructure",
+            "C": "Only database queries",
+            "D": "Complete end-user application only"
+        },
+        "answer": "B",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does PaaS provide?",
+        "options": {
+            "A": "Only physical cables",
+            "B": "Only email",
+            "C": "Platform for developing and deploying applications",
+            "D": "Only end-user hardware"
+        },
+        "answer": "C",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does SaaS provide?",
+        "options": {
+            "A": "Only networking",
+            "B": "Only virtual machines",
+            "C": "Only storage hardware",
+            "D": "Software applications over the internet"
+        },
+        "answer": "D",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which cloud model is dedicated to one organization?",
+        "options": {
+            "A": "Open cloud",
+            "B": "Private cloud",
+            "C": "Public cloud",
+            "D": "Community-free cloud"
+        },
+        "answer": "B",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which cloud model serves many customers?",
+        "options": {
+            "A": "Local cloud",
+            "B": "Offline cloud",
+            "C": "Public cloud",
+            "D": "Private cloud"
+        },
+        "answer": "C",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a hybrid cloud?",
+        "options": {
+            "A": "Combination of private and public cloud environments",
+            "B": "Only public cloud",
+            "C": "No cloud",
+            "D": "Only private cloud"
+        },
+        "answer": "A",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is elasticity?",
+        "options": {
+            "A": "Fixed capacity",
+            "B": "Data encryption only",
+            "C": "Manual backup",
+            "D": "Ability to scale resources with demand"
+        },
+        "answer": "D",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is scalability?",
+        "options": {
+            "A": "Only security",
+            "B": "Only storage",
+            "C": "Only billing",
+            "D": "Ability to increase or decrease capacity"
+        },
+        "answer": "D",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is virtualization?",
+        "options": {
+            "A": "Writing HTML",
+            "B": "Deleting servers",
+            "C": "Encrypting files",
+            "D": "Creating virtual computing resources"
+        },
+        "answer": "D",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a virtual machine?",
+        "options": {
+            "A": "Physical router",
+            "B": "Web page",
+            "C": "Database table",
+            "D": "Software-based emulation of a computer"
+        },
+        "answer": "D",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is cloud storage?",
+        "options": {
+            "A": "Remote storage accessed through a network",
+            "B": "Local RAM only",
+            "C": "CPU cache",
+            "D": "Keyboard memory"
+        },
+        "answer": "A",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is multi-tenancy?",
+        "options": {
+            "A": "Multiple customers sharing a cloud platform with logical isolation",
+            "B": "One user per server only",
+            "C": "Offline computing",
+            "D": "No users"
+        },
+        "answer": "A",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is pay-as-you-go pricing?",
+        "options": {
+            "A": "Paying based on resource usage",
+            "B": "No payment",
+            "C": "Hardware-only payment",
+            "D": "Fixed lifetime payment"
+        },
+        "answer": "A",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is serverless computing?",
+        "options": {
+            "A": "Only local programs",
+            "B": "No servers exist",
+            "C": "A physical server room",
+            "D": "Running code without managing servers directly"
+        },
+        "answer": "D",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is an availability zone?",
+        "options": {
+            "A": "A programming language",
+            "B": "A user account",
+            "C": "A database table",
+            "D": "Isolated location within a cloud region"
+        },
+        "answer": "D",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a cloud region?",
+        "options": {
+            "A": "A software package",
+            "B": "A user group",
+            "C": "Geographic area containing cloud infrastructure",
+            "D": "A network protocol"
+        },
+        "answer": "C",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is load balancing?",
+        "options": {
+            "A": "Encrypting data",
+            "B": "Backing up files",
+            "C": "Deleting requests",
+            "D": "Distributing workloads across resources"
+        },
+        "answer": "D",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is an SLA?",
+        "options": {
+            "A": "Server Link Address",
+            "B": "Storage License Access",
+            "C": "Service Level Agreement",
+            "D": "System Login Application"
+        },
+        "answer": "C",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is cloud security?",
+        "options": {
+            "A": "Only storage",
+            "B": "Only billing",
+            "C": "Protection of cloud resources and data",
+            "D": "Only application design"
+        },
+        "answer": "C",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is IAM?",
+        "options": {
+            "A": "Internal API Manager",
+            "B": "Information Access Machine",
+            "C": "Internet Application Module",
+            "D": "Identity and Access Management"
+        },
+        "answer": "D",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a container?",
+        "options": {
+            "A": "Physical server",
+            "B": "Network cable",
+            "C": "Database key",
+            "D": "Lightweight isolated application environment"
+        },
+        "answer": "D",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is Kubernetes commonly used for?",
+        "options": {
+            "A": "Container orchestration",
+            "B": "Image editing",
+            "C": "SQL querying",
+            "D": "Word processing"
+        },
+        "answer": "A",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a CDN?",
+        "options": {
+            "A": "Network that delivers content from distributed locations",
+            "B": "Security password",
+            "C": "Cloud database only",
+            "D": "CPU scheduler"
+        },
+        "answer": "A",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is cloud migration?",
+        "options": {
+            "A": "Deleting cloud data",
+            "B": "Creating a LAN",
+            "C": "Moving workloads or data to cloud environments",
+            "D": "Formatting a disk"
+        },
+        "answer": "C",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is disaster recovery?",
+        "options": {
+            "A": "Creating HTML",
+            "B": "Increasing screen size",
+            "C": "Restoring services after a major failure",
+            "D": "Sorting files"
+        },
+        "answer": "C",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is fault tolerance?",
+        "options": {
+            "A": "Faster typing",
+            "B": "Ability to continue operating despite failures",
+            "C": "Lower screen resolution",
+            "D": "No backup"
+        },
+        "answer": "B",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a cloud API?",
+        "options": {
+            "A": "A physical cable",
+            "B": "A database row",
+            "C": "Interface for interacting programmatically with cloud services",
+            "D": "A user password"
+        },
+        "answer": "C",
+        "topic": "Cloud Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is object storage?",
+        "options": {
+            "A": "Only database rows",
+            "B": "Storage of data as objects with metadata",
+            "C": "Only RAM",
+            "D": "Only CPU cache"
+        },
+        "answer": "B",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is cybersecurity?",
+        "options": {
+            "A": "Only web design",
+            "B": "Only hardware repair",
+            "C": "Only programming",
+            "D": "Protection of systems, networks, and data"
+        },
+        "answer": "D",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is malware?",
+        "options": {
+            "A": "Database software",
+            "B": "Malicious software",
+            "C": "Backup software",
+            "D": "Office software"
+        },
+        "answer": "B",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is phishing?",
+        "options": {
+            "A": "Fraudulent attempt to obtain sensitive information",
+            "B": "Data backup",
+            "C": "Software update",
+            "D": "Network speed test"
+        },
+        "answer": "A",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a virus?",
+        "options": {
+            "A": "Malicious program that can replicate by attaching to files or programs",
+            "B": "Firewall",
+            "C": "Password manager",
+            "D": "Backup"
+        },
+        "answer": "A",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is ransomware?",
+        "options": {
+            "A": "Firewall",
+            "B": "Malware that typically blocks access and demands payment",
+            "C": "Antivirus",
+            "D": "Encryption standard"
+        },
+        "answer": "B",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is encryption?",
+        "options": {
+            "A": "Deleting data",
+            "B": "Sorting records",
+            "C": "Transforming data to protect confidentiality",
+            "D": "Compressing only"
+        },
+        "answer": "C",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is decryption?",
+        "options": {
+            "A": "Deleting keys",
+            "B": "Backing up data",
+            "C": "Converting protected data back to readable form",
+            "D": "Creating malware"
+        },
+        "answer": "C",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is authentication?",
+        "options": {
+            "A": "Granting every permission",
+            "B": "Deleting users",
+            "C": "Encrypting files only",
+            "D": "Verifying identity"
+        },
+        "answer": "D",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is authorization?",
+        "options": {
+            "A": "Determining what an authenticated user can access",
+            "B": "Scanning hardware",
+            "C": "Verifying identity",
+            "D": "Creating a password"
+        },
+        "answer": "A",
+        "topic": "Cyber Security",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is multi-factor authentication?",
+        "options": {
+            "A": "Using one password twice",
+            "B": "Using two or more authentication factors",
+            "C": "No authentication",
+            "D": "Sharing passwords"
+        },
+        "answer": "B",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a strong password?",
+        "options": {
+            "A": "Birth year only",
+            "B": "Username only",
+            "C": "Short common word",
+            "D": "Long, unique, hard-to-guess secret"
+        },
+        "answer": "D",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a brute-force attack?",
+        "options": {
+            "A": "Trying many possible passwords or keys",
+            "B": "Backing up data",
+            "C": "Updating software",
+            "D": "Sending one email"
+        },
+        "answer": "A",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a denial-of-service attack?",
+        "options": {
+            "A": "Installing updates",
+            "B": "Overwhelming a service to disrupt availability",
+            "C": "Encrypting files",
+            "D": "Stealing a password by guessing only"
+        },
+        "answer": "B",
+        "topic": "Cyber Security",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a vulnerability?",
+        "options": {
+            "A": "Strong password",
+            "B": "Backup copy",
+            "C": "Weakness that can be exploited",
+            "D": "Security patch"
+        },
+        "answer": "C",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a security patch?",
+        "options": {
+            "A": "Update that fixes vulnerabilities or bugs",
+            "B": "A password",
+            "C": "A virus",
+            "D": "A firewall rule only"
+        },
+        "answer": "A",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is social engineering?",
+        "options": {
+            "A": "Manipulating people to reveal information or take actions",
+            "B": "Updating software",
+            "C": "Encrypting a disk",
+            "D": "Scanning ports only"
+        },
+        "answer": "A",
+        "topic": "Cyber Security",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is spyware?",
+        "options": {
+            "A": "Compiler",
+            "B": "Backup tool",
+            "C": "Software that secretly monitors or collects information",
+            "D": "Firewall"
+        },
+        "answer": "C",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a botnet?",
+        "options": {
+            "A": "Password list",
+            "B": "Secure network",
+            "C": "Backup server",
+            "D": "Network of compromised devices controlled together"
+        },
+        "answer": "D",
+        "topic": "Cyber Security",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a Trojan?",
+        "options": {
+            "A": "Firewall",
+            "B": "Network switch",
+            "C": "Encryption key",
+            "D": "Malware disguised as legitimate software"
+        },
+        "answer": "D",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a security audit?",
+        "options": {
+            "A": "Systematic review of security controls and practices",
+            "B": "Data deletion",
+            "C": "Network cabling",
+            "D": "Software installation"
+        },
+        "answer": "A",
+        "topic": "Cyber Security",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is confidentiality?",
+        "options": {
+            "A": "Preventing unauthorized disclosure of information",
+            "B": "Deleting data",
+            "C": "Ensuring speed",
+            "D": "Ensuring data is always available"
+        },
+        "answer": "A",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is integrity?",
+        "options": {
+            "A": "Reducing storage",
+            "B": "Keeping systems online only",
+            "C": "Hiding usernames",
+            "D": "Preventing unauthorized alteration of data"
+        },
+        "answer": "D",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is availability?",
+        "options": {
+            "A": "Ensuring authorized users can access systems when needed",
+            "B": "Deleting logs",
+            "C": "Changing passwords",
+            "D": "Encrypting every file"
+        },
+        "answer": "A",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the CIA triad?",
+        "options": {
+            "A": "Confidentiality, Integrity, Availability",
+            "B": "Control, Internet, Access",
+            "C": "Code, Integrity, Access",
+            "D": "Confidentiality, Internet, Authentication"
+        },
+        "answer": "A",
+        "topic": "Cyber Security",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is a VPN?",
+        "options": {
+            "A": "Encrypted or protected connection over a network",
+            "B": "A password",
+            "C": "A virus scanner",
+            "D": "A database"
+        },
+        "answer": "A",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a digital signature used for?",
+        "options": {
+            "A": "Increasing storage",
+            "B": "Deleting malware",
+            "C": "Compressing files",
+            "D": "Authenticity and integrity of digital data"
+        },
+        "answer": "D",
+        "topic": "Cyber Security",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "What is antivirus software?",
+        "options": {
+            "A": "A database",
+            "B": "A router",
+            "C": "Software that detects or blocks malicious software",
+            "D": "A web browser"
+        },
+        "answer": "C",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is a security log?",
+        "options": {
+            "A": "A network cable",
+            "B": "Password itself",
+            "C": "Record of system or security events",
+            "D": "A virus"
+        },
+        "answer": "C",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Why are software updates important for security?",
+        "options": {
+            "A": "They always increase storage",
+            "B": "They remove all passwords",
+            "C": "They can fix known vulnerabilities",
+            "D": "They disable encryption"
+        },
+        "answer": "C",
+        "topic": "Cyber Security",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which planet is called the Red Planet?",
+        "options": {
+            "A": "Earth",
+            "B": "Venus",
+            "C": "Mars",
+            "D": "Jupiter"
+        },
+        "answer": "C",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "How many continents are there?",
+        "options": {
+            "A": "7",
+            "B": "6",
+            "C": "5",
+            "D": "8"
+        },
+        "answer": "A",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which is the largest ocean?",
+        "options": {
+            "A": "Pacific Ocean",
+            "B": "Arctic Ocean",
+            "C": "Atlantic Ocean",
+            "D": "Indian Ocean"
+        },
+        "answer": "A",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which gas is needed for human respiration?",
+        "options": {
+            "A": "Hydrogen",
+            "B": "Nitrogen",
+            "C": "Carbon Dioxide",
+            "D": "Oxygen"
+        },
+        "answer": "D",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Who wrote the Indian national anthem?",
+        "options": {
+            "A": "Subhas Chandra Bose",
+            "B": "Bankim Chandra Chatterjee",
+            "C": "Sarojini Naidu",
+            "D": "Rabindranath Tagore"
+        },
+        "answer": "D",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which is the largest planet in the Solar System?",
+        "options": {
+            "A": "Neptune",
+            "B": "Saturn",
+            "C": "Jupiter",
+            "D": "Earth"
+        },
+        "answer": "C",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which is the smallest prime number?",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "answer": "C",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "How many days are in a leap year?",
+        "options": {
+            "A": "366",
+            "B": "367",
+            "C": "364",
+            "D": "365"
+        },
+        "answer": "A",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which organ pumps blood through the body?",
+        "options": {
+            "A": "Kidney",
+            "B": "Liver",
+            "C": "Heart",
+            "D": "Lungs"
+        },
+        "answer": "C",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": {
+            "A": "Ganga",
+            "B": "Yamuna",
+            "C": "Narmada",
+            "D": "Godavari"
+        },
+        "answer": "A",
+        "topic": "General Knowledge",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": {
+            "A": "Japan",
+            "B": "China",
+            "C": "Thailand",
+            "D": "Korea"
+        },
+        "answer": "A",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": {
+            "A": "Rupee",
+            "B": "Yen",
+            "C": "Dollar",
+            "D": "Won"
+        },
+        "answer": "B",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which is the highest mountain above sea level?",
+        "options": {
+            "A": "Makalu",
+            "B": "Kangchenjunga",
+            "C": "Mount Everest",
+            "D": "K2"
+        },
+        "answer": "C",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "How many players are on a cricket team?",
+        "options": {
+            "A": "11",
+            "B": "12",
+            "C": "9",
+            "D": "10"
+        },
+        "answer": "A",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which vitamin is commonly produced in skin through sunlight?",
+        "options": {
+            "A": "Vitamin B12",
+            "B": "Vitamin D",
+            "C": "Vitamin C",
+            "D": "Vitamin K"
+        },
+        "answer": "B",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": {
+            "A": "Copper",
+            "B": "Mercury",
+            "C": "Aluminium",
+            "D": "Iron"
+        },
+        "answer": "B",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which is the largest mammal?",
+        "options": {
+            "A": "Hippopotamus",
+            "B": "Giraffe",
+            "C": "Elephant",
+            "D": "Blue whale"
+        },
+        "answer": "D",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which instrument measures temperature?",
+        "options": {
+            "A": "Barometer",
+            "B": "Altimeter",
+            "C": "Thermometer",
+            "D": "Hygrometer"
+        },
+        "answer": "C",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which instrument measures atmospheric pressure?",
+        "options": {
+            "A": "Ammeter",
+            "B": "Thermometer",
+            "C": "Barometer",
+            "D": "Speedometer"
+        },
+        "answer": "C",
+        "topic": "General Knowledge",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "How many fundamental rights are currently guaranteed in the Indian Constitution?",
+        "options": {
+            "A": "Seven",
+            "B": "Six",
+            "C": "Five",
+            "D": "Eight"
+        },
+        "answer": "B",
+        "topic": "General Knowledge",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which Indian city is known as the City of Pearls?",
+        "options": {
+            "A": "Jaipur",
+            "B": "Kolkata",
+            "C": "Pune",
+            "D": "Hyderabad"
+        },
+        "answer": "D",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which festival is known as the festival of lights?",
+        "options": {
+            "A": "Eid",
+            "B": "Holi",
+            "C": "Pongal",
+            "D": "Diwali"
+        },
+        "answer": "D",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which is the national animal of India?",
+        "options": {
+            "A": "Elephant",
+            "B": "Bengal tiger",
+            "C": "Lion",
+            "D": "Peacock"
+        },
+        "answer": "B",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which is the national bird of India?",
+        "options": {
+            "A": "Sparrow",
+            "B": "Parrot",
+            "C": "Eagle",
+            "D": "Indian peacock"
+        },
+        "answer": "D",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which ocean lies south of India?",
+        "options": {
+            "A": "Arctic Ocean",
+            "B": "Indian Ocean",
+            "C": "Pacific Ocean",
+            "D": "Atlantic Ocean"
+        },
+        "answer": "B",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is H2O commonly known as?",
+        "options": {
+            "A": "Salt",
+            "B": "Hydrogen",
+            "C": "Water",
+            "D": "Oxygen"
+        },
+        "answer": "C",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": {
+            "A": "Earth",
+            "B": "Mercury",
+            "C": "Venus",
+            "D": "Mars"
+        },
+        "answer": "B",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "How many hours are in a day?",
+        "options": {
+            "A": "36",
+            "B": "12",
+            "C": "48",
+            "D": "24"
+        },
+        "answer": "D",
+        "topic": "General Knowledge",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which language has the most native speakers in India?",
+        "options": {
+            "A": "Tamil",
+            "B": "Telugu",
+            "C": "Bengali",
+            "D": "Hindi"
+        },
+        "answer": "D",
+        "topic": "General Knowledge",
+        "difficulty": "Medium"
+    }
+]

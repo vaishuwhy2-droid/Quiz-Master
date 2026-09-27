@@ -1,0 +1,50 @@
+[
+    {
+        "username": "vaishnavi",
+        "topic": "General Knowledge",
+        "difficulty": "Easy",
+        "total_questions": 2,
+        "correct_answers": 2,
+        "wrong_answers": 0,
+        "score": 2,
+        "percentage": 100.0,
+        "performance": "Excellent",
+        "date": "2026-09-26 13:20:29"
+    },
+    {
+        "username": "vaishnavi",
+        "topic": "Python",
+        "difficulty": "Medium",
+        "total_questions": 4,
+        "correct_answers": 2,
+        "wrong_answers": 2,
+        "score": 2,
+        "percentage": 50.0,
+        "performance": "Average",
+        "date": "2026-09-27 18:53:03"
+    },
+    {
+        "username": "vaishnavi",
+        "topic": "AI",
+        "difficulty": "Easy",
+        "total_questions": 2,
+        "correct_answers": 2,
+        "wrong_answers": 0,
+        "score": 2,
+        "percentage": 100.0,
+        "performance": "Excellent",
+        "date": "2026-09-27 19:06:23"
+    },
+    {
+        "username": "gayathri",
+        "topic": "Cloud Computing",
+        "difficulty": "All",
+        "total_questions": 12,
+        "correct_answers": 6,
+        "wrong_answers": 6,
+        "score": 6,
+        "percentage": 50.0,
+        "performance": "Average",
+        "date": "2026-09-27 19:12:20"
+    }
+]
